@@ -18,11 +18,11 @@ pip install -r requirements.txt
 ## Usage
 1. Clone the repository:
    bash
-   git clone 
+   git clone https://github.com/Tkavindi/Wine-Dataset-Classification-Using-k-Nearest-Neighbors-k-NN.git
    
 2. Navigate to the project directory:
    bash
-   cd your-repository
+   cd Wine-Dataset-Classification-Using-k-Nearest-Neighbors-k-NN
    
 3. Open the Jupyter Notebook:
    bash
